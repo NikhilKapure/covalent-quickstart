@@ -1,0 +1,128 @@
+{
+  "_args": [
+    [
+      {
+        "name": "@covalent/file-upload",
+        "raw": "@covalent/file-upload@0.6.0",
+        "rawSpec": "0.6.0",
+        "scope": "@covalent",
+        "spec": "0.6.0",
+        "type": "version"
+      },
+      "C:\\Users\\EM255017\\GitHub\\covalent-quickstart"
+    ]
+  ],
+  "_from": "@covalent/file-upload@0.6.0",
+  "_id": "@covalent/file-upload@0.6.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@covalent/file-upload",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/file-upload-0.6.0.tgz_1471635946300_0.4583812025375664"
+  },
+  "_npmUser": {
+    "email": "emoralesb05@gmail.com",
+    "name": "emoralesb05"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "@covalent/file-upload",
+    "raw": "@covalent/file-upload@0.6.0",
+    "rawSpec": "0.6.0",
+    "scope": "@covalent",
+    "spec": "0.6.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:deploy\\platform\\file-upload",
+  "_shasum": "3c87f8311bb8cb566bd2f2383b380ff33344a766",
+  "_shrinkwrap": null,
+  "_spec": "@covalent/file-upload@0.6.0",
+  "_where": "C:\\Users\\EM255017\\GitHub\\covalent-quickstart",
+  "author": {
+    "name": "Teradata UX"
+  },
+  "bugs": {
+    "url": "https://github.com/teradata/covalent/issues"
+  },
+  "contributors": [
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "Kyle Ledbetter"
+    },
+    {
+      "email": "richa.vyas@teradata.com",
+      "name": "Richa Vyas"
+    },
+    {
+      "email": "eduardo.morales@teradata.com",
+      "name": "Ed Morales"
+    },
+    {
+      "email": "jason.weaver@teradata.com",
+      "name": "Jason Weaver"
+    },
+    {
+      "email": "jeremy.wilken@teradata.com",
+      "name": "Jeremy Wilken"
+    }
+  ],
+  "dependencies": {
+    "@covalent/core": "0.6.0"
+  },
+  "description": "Teradata UI Platform File Upload Module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3c87f8311bb8cb566bd2f2383b380ff33344a766",
+    "tarball": "https://registry.npmjs.org/@covalent/file-upload/-/file-upload-0.6.0.tgz"
+  },
+  "engines": {
+    "node": ">4.4 < 5",
+    "npm": ">= 3"
+  },
+  "homepage": "https://github.com/teradata/covalent#readme",
+  "keywords": [
+    "angular",
+    "components",
+    "reusable",
+    "file",
+    "upload",
+    "browse"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "emoralesb05@gmail.com",
+      "name": "emoralesb05"
+    },
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "teradata"
+    }
+  ],
+  "name": "@covalent/file-upload",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teradata/covalent.git"
+  },
+  "scripts": {},
+  "version": "0.6.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "pkgid": "@covalent/file-upload@0.6.0",
+      "required": {
+        "node": ">4.4 < 5",
+        "npm": ">= 3"
+      }
+    }
+  ]
+}

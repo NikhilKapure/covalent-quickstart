@@ -1,0 +1,123 @@
+{
+  "_args": [
+    [
+      {
+        "name": "@covalent/chips",
+        "raw": "@covalent/chips@0.6.0",
+        "rawSpec": "0.6.0",
+        "scope": "@covalent",
+        "spec": "0.6.0",
+        "type": "version"
+      },
+      "C:\\Users\\EM255017\\GitHub\\covalent-quickstart"
+    ]
+  ],
+  "_from": "@covalent/chips@0.6.0",
+  "_id": "@covalent/chips@0.6.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/@covalent/chips",
+  "_nodeVersion": "4.4.4",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/chips-0.6.0.tgz_1471635929660_0.36868622130714357"
+  },
+  "_npmUser": {
+    "email": "emoralesb05@gmail.com",
+    "name": "emoralesb05"
+  },
+  "_npmVersion": "2.15.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "@covalent/chips",
+    "raw": "@covalent/chips@0.6.0",
+    "rawSpec": "0.6.0",
+    "scope": "@covalent",
+    "spec": "0.6.0",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:deploy\\platform\\chips",
+  "_shasum": "6ef8dec591d28467851819a5a17dccc8c9a1ab25",
+  "_shrinkwrap": null,
+  "_spec": "@covalent/chips@0.6.0",
+  "_where": "C:\\Users\\EM255017\\GitHub\\covalent-quickstart",
+  "author": {
+    "name": "Teradata UX"
+  },
+  "bugs": {
+    "url": "https://github.com/teradata/covalent/issues"
+  },
+  "contributors": [
+    {
+      "email": "kyle.ledbetter@teradata.com",
+      "name": "Kyle Ledbetter"
+    },
+    {
+      "email": "richa.vyas@teradata.com",
+      "name": "Richa Vyas"
+    },
+    {
+      "email": "eduardo.morales@teradata.com",
+      "name": "Ed Morales"
+    },
+    {
+      "email": "jason.weaver@teradata.com",
+      "name": "Jason Weaver"
+    },
+    {
+      "email": "jeremy.wilken@teradata.com",
+      "name": "Jeremy Wilken"
+    }
+  ],
+  "dependencies": {
+    "@covalent/core": "0.6.0"
+  },
+  "description": "Teradata UI Platform Chips Module",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6ef8dec591d28467851819a5a17dccc8c9a1ab25",
+    "tarball": "https://registry.npmjs.org/@covalent/chips/-/chips-0.6.0.tgz"
+  },
+  "engines": {
+    "node": ">4.4 < 5",
+    "npm": ">= 3"
+  },
+  "homepage": "https://github.com/teradata/covalent#readme",
+  "keywords": [
+    "angular",
+    "components",
+    "reusable",
+    "chips",
+    "list"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "email": "emoralesb05@gmail.com",
+      "name": "emoralesb05"
+    }
+  ],
+  "name": "@covalent/chips",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teradata/covalent.git"
+  },
+  "scripts": {},
+  "version": "0.6.0",
+  "warnings": [
+    {
+      "code": "ENOTSUP",
+      "pkgid": "@covalent/chips@0.6.0",
+      "required": {
+        "node": ">4.4 < 5",
+        "npm": ">= 3"
+      }
+    }
+  ]
+}
